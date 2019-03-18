@@ -5,7 +5,7 @@ Data visualization learning
 The outline is as follows：
 First, the Python common data visualization library；
 Second, the use of ggpolt drawing library in R language；
-Third, the use of tableau software visualization.
+Third, the use of tableau software visualization & Microsoft BI.
 #
 
 If you don't want to do a good job of data analysis, you can only go back to the life insurance actuarial.
